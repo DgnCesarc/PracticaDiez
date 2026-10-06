@@ -21,9 +21,9 @@ public class Practica1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Marco1 miMarco=new Marco1();
-		miMarco.setVisible(true);
-		miMarco.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		Marco1 miMarco1=new Marco1();
+		miMarco1.setVisible(true);
+		miMarco1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
 }
